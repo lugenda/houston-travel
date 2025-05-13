@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- meta tags -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- favicon -->
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="./assets/favicon/ganda_berunda_favicon.png"
+    />
+
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- css -->
+    <link rel="stylesheet" href="styles.css" />
+
+    <title>whitny travel company</title>
+  </head>
+  <body>
+    <header class="container header-container">
+      <div class="logo-section">
+        <img
+          class="logo"
+          src="images/wildlife1.jpg"
+          alt="news-letter-logo"
+        />
+        <h1>Joseph and Whitney travels ltd</h1>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="about.html">About</a></li>
+          <li><a href="#">Highlights</a></li>
+          <li><a href="#">Contribute</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div class="background">
+        <div class="container hero-section">
+          <div class="hero-text">
+            <h2>Whitney Travel co Ug Taking u to Places u av Never.</h2>
+            <p>
+              Explore Ugandas rich heritage, vibrant culture, latest
+              developments, and hidden gems. Get agent news, travel
+              inspiration, event updates, and insightful stories from across 
+              uganda starting from kirinya , delivered to your inbox every Monday.
+            </p>
+            <button class="btn">Join the adventure</button>
+          </div>
+          <img
+            class="hero-img"
+            src="images/wildlife2.jpg"
+            alt="stone chariot of hampi city"
+          />
+        </div>
+      </div>
+      <div class="container information-section">
+        <h3>What to Expect Apone landing:</h3>
+        <div class="info-container">
+          <div class="box">
+            <img
+              src="images/wildlife3.jpg"
+              alt="temple architecture"
+            />
+            <div class="box-content">
+              <h4>Kirinya bweyogerere:</h4>
+              <p>
+                Dive into kirinyas wildlife, traditional arts, fascinating animals in close range              from every region.
+              </p>
+            </div>
+          </div>
+          <div class="box">
+            <img src="images/houston2.jpg" alt="Chitradurga Fort"/>
+            <div class="box-content">
+              <h4>Adrenoline hype:</h4>
+              <p>
+                We gurantee andrenoline hype with sure safty, because of the experienced tour guides
+              </p>
+            </div>
+          </div>
+          <div class="box">
+            <img src="./images/Kampala1.jpg" alt="bangalore city"
+            />
+            <div class="box-content">
+              <h4>Welcome to the night life:</h4>
+              <p>
+                Its day time at night in uganda with the aboundance of party life clubs in jinja and the tight security
+              </p>
+            </div>
+          </div>
+          <div class="box">
+            <img src="./images/houston.jpg" alt="Karnataka local food"
+            />
+            <div class="box-content">
+              <h4>Woman empowerment:</h4>
+              <p>
+                Women feel secure all day all night due to the acceptance of women right in uganda come one come all.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="background testimonials">
+        <div class="container">
+          <h3>What people say about the experience:</h3>
+          <div class="quotes">
+            <blockquote>
+              <p>
+                "I am Onerwoth Marvin a parmanent resident in jinja towm uganda and i guarantee anyone reading that 
+                what ever is said is right come and whitness for ur self and feel the love of jinja KILYOWA CITY
+              </p>
+              <cite>- Onerwoth Marvin</cite>
+            </blockquote>
+            <blockquote>
+              <p>
+                "As someone deeply interested in ugandas wildlife and entertainment local traditions are always insightful and well-researched. It's
+                a highlight in my inbox."
+              </p>
+              <cite>- Balabyeki jackson Mr Money</cite>
+            </blockquote>
+            <blockquote>
+              <p>
+                "Keeping up with what's happening across the entire country can be
+                challenging. 'Joseph and whitney tours' makes it easy by bringing
+                together key news, development highlights, and interesting
+                community stories all in one place. Highly recommended!"
+              </p>
+              <cite>- Mr Owor Moses</cite>
+            </blockquote>
+            <blockquote>
+              <p>
+                "Even though I live outside jinja now, 'Joseph's tour company' helps me stay in touch with my roots. The stories
+                and updates make me feel connected to home and always spark nostalgic
+                conversations with my family."
+              </p>
+              <cite>- Mr Harish bhahat</cite>
+            </blockquote>
+          </div>
+        </div>
+      </div>
+      <div class="container call-to-action">
+        <div class="call-text">
+          <h3>Explore Uganda Jinja to the fullest– It's Free!</h3>
+          <p>
+            Join thousands of others in exploring the depth and diversity of
+            jinja. Sign up for 'Joseph and whitney tour' today!
+          </p>
+        </div>
+        <button class="btn">Subscribe for Free</button>
+      </div>
+    </main>
+    <footer>
+      <p>Copyright © Joseph designs 2025</p>
+    </footer>
+  </body>
+</html>
